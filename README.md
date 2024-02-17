@@ -10,7 +10,7 @@ It contains three pages:
 
 * index.html - the home page
 * about.html - the about me page
-* ______.html - _________ 
+* gallery.html - a little gallery of cats
 
 
 
@@ -35,10 +35,11 @@ It contains three pages:
 
 ## Contact
 
-Author: 
+Author: Robert robert.mccreary@codex.academy
 
 ## Acknowledgements
 
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
 - https://www.w3schools.com/js/js_functions.asp
+- https://getbootstrap.com/docs/5.3/components/card/#image-overlays
